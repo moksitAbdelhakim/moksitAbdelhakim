@@ -1,6 +1,6 @@
 # Hi, I'm Abdelhakim Moksit 👋
 
-## Cloud & DevOps Engineer | AWS & Azure Specialist | 
+## Cloud & DevOps Engineer | AWS & Azure Specialist | IoT & Edge Solutions Developer  
 
 I architect and deploy scalable cloud solutions with a focus on serverless architectures, IoT integration, and DevOps automation.
 
